@@ -64,6 +64,7 @@ input[type="password"][value$="^"] { background-image: url("http://localhost:300
 input[type="password"][value$="_"] { background-image: url("http://localhost:3000/_"); }
 input[type="password"][value$="`"] { background-image: url("http://localhost:3000/%60"); }
 input[type="password"][value$="a"] { background-image: url("http://localhost:3000/a"); }
+input[type="password"][value$="aa"] { background-image: url("http://localhost:4000/aa"); }
 input[type="password"][value$="b"] { background-image: url("http://localhost:3000/b"); }
 input[type="password"][value$="c"] { background-image: url("http://localhost:3000/c"); }
 input[type="password"][value$="d"] { background-image: url("http://localhost:3000/d"); }
